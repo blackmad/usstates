@@ -1,0 +1,14 @@
+ {
+   "layers": {
+        "mylayer": {
+            "src": "tl_2014_us_state.shp",
+              "labeling": {
+                "key": "NAME"
+              }
+        }
+    },
+
+"export": {
+     "width": 10000
+}
+ }
